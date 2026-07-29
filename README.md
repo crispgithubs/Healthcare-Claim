@@ -4,6 +4,12 @@ The goal of this project is to analyze healthcare insurance claims. Cost breakdo
 # Introduction
 This project is an interactive Healthcare Claim Analytics Dashboard built in tableau, designed to transform raw insurance claims data into clear, actionable insights. it brings together claim costs, provider performance, member level trends and diagnosis procedure patterns into a single unified view.
 
+
+
+https://github.com/crispgithubs/Healthcare-Claim/blob/main/Healthcare%20claim.sql
+
+
+
 # Insights Summary
 * inpatient claims dominate cost distribution:- compared to emergency and other claim types. indicating they are the primary driver of overall claims expenditure.
 *  Paid ratios vary noticeably across provider;- some provider (e.g PRVOOOO8) show notably higher paid ratios than others, highllighting potential gaps in reimbursement consistency that may warrant auditing.
@@ -11,4 +17,4 @@ This project is an interactive Healthcare Claim Analytics Dashboard built in tab
 *  Diagnosis Code 110 (Essential Hypertension):- leads the top ICD Codes by paid amounts, followed by A12.3 and B20- pointing to chronic condition management as a significant cost center.
 *  Member-Level Analysis:- reveals that a handful of member (e.g Member 6, 32) account for the highest paid amounts, useful for identifying high-cost/high-utilization members for care management programs.
 *   
-https://github.com/crispgithubs/Healthcare-Claim/blob/main/Healthcare%20claim.sql
+
