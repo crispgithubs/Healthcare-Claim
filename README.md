@@ -7,7 +7,7 @@ This project is an interactive Healthcare Claim Analytics Dashboard built in tab
 
 
 https://github.com/crispgithubs/Healthcare-Claim/blob/main/Healthcare%20claim.sql
-
+https://github.com/crispgithubs/Healthcare-Claim/blob/71746c61e0f18eea4a29fee656701f637e3ad5bc/my%20sql%20Healthcare%20Claim%20screenshot.png
 
 
 # Insights Summary
