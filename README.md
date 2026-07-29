@@ -17,5 +17,8 @@ https://github.com/crispgithubs/Healthcare-Claim/blob/main/Healthcare%20claim.sq
 *  A small set of CPT codes:- (e.g 67890, 23456) account for a disproportionably large share of paid amounts, suggesting these procedure are major cost contributors.
 *  Diagnosis Code 110 (Essential Hypertension):- leads the top ICD Codes by paid amounts, followed by A12.3 and B20- pointing to chronic condition management as a significant cost center.
 *  Member-Level Analysis:- reveals that a handful of member (e.g Member 6, 32) account for the highest paid amounts, useful for identifying high-cost/high-utilization members for care management programs.
-*   
+
+# Dashboard
+The dashboard can be found in tableau public
+
 
