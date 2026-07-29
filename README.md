@@ -20,5 +20,6 @@ https://github.com/crispgithubs/Healthcare-Claim/blob/main/Healthcare%20claim.sq
 
 # Dashboard
 The dashboard can be found in tableau public
+https://github.com/crispgithubs/Healthcare-Claim/blob/main/Healthcare%20Claims.twbx
 
 
