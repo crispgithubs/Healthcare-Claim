@@ -11,3 +11,4 @@ This project is an interactive Healthcare Claim Analytics Dashboard built in tab
 *  Diagnosis Code 110 (Essential Hypertension):- leads the top ICD Codes by paid amounts, followed by A12.3 and B20- pointing to chronic condition management as a significant cost center.
 *  Member-Level Analysis:- reveals that a handful of member (e.g Member 6, 32) account for the highest paid amounts, useful for identifying high-cost/high-utilization members for care management programs.
 *   
+https://github.com/crispgithubs/Healthcare-Claim/blob/main/Healthcare%20claim.sql
